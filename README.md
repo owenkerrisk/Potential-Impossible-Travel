@@ -104,8 +104,8 @@ SigninLogs
 
 
    **Observed Findings:**  
-   - **Account 1:** Logins from 3 nearby locations within 4 days. No unusual behavior.  
-   - **Account 2:** Logins from 4 locations within 7 days. All locations were within a 2-hour train ride.  
+   - **Account 1:** Logins from 3 nearby locations within 7 days. No unusual behaviour. All under three hour drive period. 
+   - **Account 2:** Logins from 4 locations within 5 days. Kansas city - Ontario involved some further investigation. It is over a 3 hour flight which doesn't seem suspected behaviour due to the 6 hour log in time difference from one area to the other. Followed up with this user and was approved he would be working on the East Coast during this time period.
 
 ---
 
